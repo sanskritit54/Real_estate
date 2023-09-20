@@ -14,3 +14,7 @@ git commit -am "write your changes message here"
 
 git push origin sans
 to final upload the changes
+
+note:
+
+before running git pull origin main please push your code to online
