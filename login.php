@@ -91,7 +91,7 @@ ob_end_flush();
 
 	.img {
 		width: 20vw;
-
+		transform: scale(1);
 		height: full;
 	}
 </style>
